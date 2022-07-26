@@ -31,4 +31,9 @@ https://ieeexplore.ieee.org/document/9392360
 https://crad.ict.ac.cn/CN/abstract/abstract3891.shtml 
 16. 王亚沙, 初旭, 张莉, 刘宏图; 湖北省及中国其他地区COVID-19疫情分析[J]; 中华实验和临床病毒学杂志, 2020, 34(03):241-246.
 http://www.cqvip.com/qk/97594x/202003/7102596537.html 
+17.	Jin Yujie, Chu Xu, Wang Yasha*, Zhu Wenwu; Domain Generalization through the Lens of Angular Invariance. In IJCAI'22. Accepted
+18.	Zhang Chaohe, Chu Xu, Ma Liantao，Zhu Yinghao，Wang Yasha*, Wang Jiangtao and Zhao Junfeng；M3Care: Learning with Missing Modalities in Multimodal Healthcare Data. In KDD'22. Accepted 
+19.	Chu Xu, Jin Yujie, Zhu Wenwu*, Wang Yasha*, Wang Xin*, Zhang Shanghang and Mei Hong; DNA: Domain Generalization with Diversified Neural Averaging. In ICML'22. Accepted
+
+
 
