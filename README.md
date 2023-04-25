@@ -1,4 +1,4 @@
-# Papers on Healthcare Big Data Analysis
+Papers on Healthcare Big Data Analysis
 
 1. Ma Liantao, Zhang Chaohe, Wang Yasha*, Ruan Wenjie, Wang Jiangtao, Tang Wen, Ma Xinyu, Gao Xin, Gao Junyi; Concare: Personalized clinical feature embedding via capturing the healthcare context; 34th AAAI Conference on Artificial Intelligence (AAAI 2020); 2020, 34(01): 833-840.
 https://ojs.aaai.org/index.php/AAAI/article/view/5428 
@@ -31,9 +31,17 @@ https://ieeexplore.ieee.org/document/9392360
 https://crad.ict.ac.cn/CN/abstract/abstract3891.shtml 
 16. 王亚沙, 初旭, 张莉, 刘宏图; 湖北省及中国其他地区COVID-19疫情分析[J]; 中华实验和临床病毒学杂志, 2020, 34(03):241-246.
 http://www.cqvip.com/qk/97594x/202003/7102596537.html 
-17.	Jin Yujie, Chu Xu, Wang Yasha*, Zhu Wenwu; Domain Generalization through the Lens of Angular Invariance. In IJCAI'22. Accepted
-18.	Zhang Chaohe, Chu Xu, Ma Liantao，Zhu Yinghao，Wang Yasha*, Wang Jiangtao and Zhao Junfeng；M3Care: Learning with Missing Modalities in Multimodal Healthcare Data. In KDD'22. Accepted 
-19.	Chu Xu, Jin Yujie, Zhu Wenwu*, Wang Yasha*, Wang Xin*, Zhang Shanghang and Mei Hong; DNA: Domain Generalization with Diversified Neural Averaging. In ICML'22. Accepted
-
+17. Jin Yujie, Chu Xu, Wang Yasha*, Zhu Wenwu; Domain Generalization through the Lens of Angular Invariance. the 31st International Joint Conference on Artificial Intelligence (IJCAI-22); 2022
+18. Zhang Chaohe, Chu Xu, Ma Liantao，Zhu Yinghao，Wang Yasha*, Wang Jiangtao and Zhao Junfeng；(2022, August). M3Care: Learning with Missing Modalities in Multimodal Healthcare Data. In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (pp. 2418-2428). 
+19. Chu Xu, Jin Yujie, Zhu Wenwu, Wang Yasha, Wang Xin*, Zhang Shanghang and Mei Hong; (2022, June). DNA: Domain Generalization with Diversified Neural Averaging. In International Conference on Machine Learning (pp. 4010-4034). PMLR.
+20. 马连韬, 张超贺, 焦贤锋, 王亚沙，唐雯，赵俊峰. Dr. Deep: 基于医疗特征上下文学习的患者健康状态可解释评估[J]. 计算机研究与发展, 2021, 58(12): 2645. 
+21. Ma Xinyu, Wang Yasha, Chu Xu, Ma Liantao, Tang Wen, Zhao Junfeng, Yuan Ye and Wang Guoren. Patient Health Representation Learning via Correlational Sparse Prior of Medical Features. IEEE Transactions on Knowledge and Data Engineering, 2022
+22. Ma Junyi, Wang Yasha, Wang Xuanliang, Wang Jiangtao, Zhao Junfeng; A three-tiered semi supervised MTL mechanism and its application in dating apps; Neural Computing and Applications, 2022: 1-15. WOS: 000895569900003
+23. Ma Junyi, Wang Xuanliang, Wang Yasha*, Wang Jiangtao, Chu Xu, Zhao Junfeng; Enhancing Online Epidemic Supervising System by Compartmental and GRU Fusion Model; Mobile Information Systems 2022. WOS:000863123100020
+24. Yujie Feng, Jiangtao Wang, Yasha Wang, Xu Chu. Spatial-Attention and Demographic-Augmented Generative Adversarial Imputation Network for Population Health Data Reconstruction. IEEE Transactions on Big Data, 2022 
+25. Yang Kai, Xu Yongxin, Zou Peinie, Ding Hongxin, Zhao Junfeng, Wang Yasha, Xie Bing; KerPrint: Local-Global Knowledge Graph Enhanced Diagnosis Prediction for Retrospective and Prospective Interpretations; 37th AAAI Conference on Artificial Intelligence (AAAI 2023), 2023.
+26. Xu Yongxin, Chu Xu, Yang Kai, Wang Zhiyuan, Zou Peinie, Ding Hongxin, Zhao Junfeng, Wang Yasha, Xie Bing; SeqCare: Sequential Training with External Medical Knowledge Graph for Diagnosis Prediction in Healthcare Data; In Proceedings of the Web Conference 2023 (WebConf 2023), 2023.
+27. Gao, Junyi, et al. "A Comprehensive Benchmark for COVID-19 Predictive Modeling Using Electronic Health Records in Intensive Care: Choosing the Best Model for COVID-19 Prognosis." arXiv preprint arXiv:2209.07805 (2022).
+    
 
 
